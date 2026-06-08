@@ -1,6 +1,6 @@
-# Hi there 👋
-# Eu sou Milena Siqueira Araujo!
-# Sobre mim:
+# Hi there 👋 Eu sou Milena Siqueira Araujo!
+
+## Sobre mim:
 Sou uma desenvolvedora em construção, ingressando no mundo tech. Atualmente estou focada em aprender mais sobre Front-end e Back-end e construindo alguns projetos paralelos.
 <!--
 **MilenaSiqA/MilenaSiqA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
