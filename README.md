@@ -32,10 +32,6 @@
   </div>
   <p></p>
 <p>•	Hardware e IoT: Arduino (Eletrônica básica/Prototipagem)</p>
-<div align="left"> 
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="30" alt="Arduino logo" /> 
-<img width="12" />
-</div>
 <p>•	Soft Skills: Trabalho em equipe, Liderança, Solução de problemas e Comunicação multidisciplinar.</p>
 <p> </p>
 <h2>Durante o primeiro período tive a oportunidade de realizar três cursos da CISCO Networking Academy: </h2>
