@@ -20,6 +20,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+    <img src="file:///C:/Users/LENOVO/Downloads/cplusplus.svg" height="30" alt="C++ logo"  />
+  <img width="12" />
   </div>
 <p>•	Desenvolvimento Front-end: HTML5, CSS3</p>
 <div align="left">
