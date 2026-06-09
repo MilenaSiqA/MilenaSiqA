@@ -9,11 +9,11 @@
 <h2 align="left">Sobre mim: </h2>
 
 ###
-<p>FORMAÇÃO ACADÊMICA</p>
+<p>=== FORMAÇÃO ACADÊMICA ===</p>
 <p>Bacharelado em Ciência da Computação | CESAR School</p>
 <p>Previsão de conclusão: 2029 (Cursando o 1º Período)</p>
 
-<p>COMPETÊNCIAS E HABILIDADES</p>
+<p>=== COMPETÊNCIAS E HABILIDADES ===</p>
 <p>•	Linguagens de Programação:Python, JavaScript, C++ (Arduino)</p> 
   <div align="left">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="C++ logo" />
@@ -34,7 +34,7 @@
 <p>•	Hardware e IoT: Arduino (Eletrônica básica/Prototipagem)</p>
 <p>•	Soft Skills: Trabalho em equipe, Liderança, Solução de problemas e Comunicação multidisciplinar.</p>
 <p> </p>
-<h2>Durante o primeiro período tive a oportunidade de realizar três cursos da CISCO Networking Academy: </h2>
+<h3>Durante o primeiro período tive a oportunidade de realizar três cursos da CISCO Networking Academy: </h3>
 <p> • Fundamentos do Hardware do Computador </p>
 <p> • Fundamentos de Python 1</p>
 <p> • JavaScript Essentials 1</p>  
