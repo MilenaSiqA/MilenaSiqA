@@ -16,7 +16,9 @@
 <p>COMPETÊNCIAS E HABILIDADES</p>
 <p>•	Linguagens de Programação:Python, JavaScript, C++ (Arduino)</p> 
   <div align="left">
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="C++ logo"  />
+  <img width="12" />
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
     <img src="file:///C:/Users/LENOVO/Downloads/cplusplus.svg" height="30" alt="C++ logo"  />
@@ -31,14 +33,16 @@
   </div>
   <p></p>
 <p>•	Hardware e IoT: Arduino (Eletrônica básica/Prototipagem)</p>
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<div align="left"> 
+  <img src="[https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)" height="30" alt="Arduino logo" /> <img width="12" />
+</div>
 <p>•	Soft Skills: Trabalho em equipe, Liderança, Solução de problemas e Comunicação multidisciplinar.</p>
 <p></p>
 <p>Durante o primeiro período tive a oportunidade de realizar três cursos da CISCO Networking Academy: </p>
 <p> • Fundamentos do Hardware do Computador </p>
 <p> • Fundamentos de Python 1</p>
 <p> • JavaScript Essentials 1</p>  
-<div align="center"> 
+<div align="left"> 
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="30" alt="CISCO logo" /> <img width="12" />
 </div>
 
