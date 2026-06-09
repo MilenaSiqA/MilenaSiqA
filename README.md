@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Milena Siqueira Araujo e eu sou acadêmica de Ciência da Computação pela CESAR School</p>
+<p align="center">Meu nome é Milena Siqueira Araujo e eu sou acadêmica de Ciência da Computação pela CESAR School</p>
 
 ###
 
