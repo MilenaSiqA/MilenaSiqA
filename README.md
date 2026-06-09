@@ -34,6 +34,11 @@
 <p>•	Hardware e IoT: Arduino (Eletrônica básica/Prototipagem)</p>
 <p>•	Soft Skills: Trabalho em equipe, Liderança, Solução de problemas e Comunicação multidisciplinar.</p>
 <p> </p>
+<p>=== Áreas de interesse ===</p>
+<p> • Cibersegurança</p>
+<p> • Engenharia de Dados</p>
+<p> • Product Manager</p>
+
 <h3>Durante o primeiro período tive a oportunidade de realizar três cursos da CISCO Networking Academy: </h3>
 <p> • Fundamentos do Hardware do Computador </p>
 <p> • Fundamentos de Python 1</p>
