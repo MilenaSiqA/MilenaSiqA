@@ -20,14 +20,13 @@ Previsão de conclusão: 2029 (Cursando o 1º Período)
 </p>
 
 <p>COMPETÊNCIAS E HABILIDADES</p>
-<p>•	Linguagens de Programação:</p>
+<p>•	Linguagens de Programação:Python, JavaScript, C++ (Arduino)</p> 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   </div>
-<p>Python, JavaScript, C++ (Arduino)</p> 
 <p>•	Desenvolvimento Front-end: HTML5, CSS3</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -35,8 +34,9 @@ Previsão de conclusão: 2029 (Cursando o 1º Período)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   </div>
-<p>•	Hardware e IoT: Arduino (Eletrônica básica/Prototipagem) 
-•	Soft Skills: Trabalho em equipe, Liderança, Solução de problemas e Comunicação multidisciplinar.</p>
+  <p></p>
+<p>•	Hardware e IoT: Arduino (Eletrônica básica/Prototipagem)</p>
+<p>•	Soft Skills: Trabalho em equipe, Liderança, Solução de problemas e Comunicação multidisciplinar.</p>
 
 ###
 
