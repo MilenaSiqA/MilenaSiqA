@@ -37,8 +37,10 @@
 <p>Durante o primeiro período tive a oportunidade de realizar três cursos da CISCO Networking Academy: </p>
 <p> • Fundamentos do Hardware do Computador </p>
 <p> • Fundamentos de Python 1</p>
-<p> • JavaScript Essentials 1</p>    
-  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+<p> • JavaScript Essentials 1</p>  
+<div align="center"> 
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="30" alt="CISCO logo" /> <img width="12" />
+</div>
 
 ###
 
