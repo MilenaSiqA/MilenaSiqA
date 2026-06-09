@@ -16,12 +16,11 @@
 <p>COMPETÊNCIAS E HABILIDADES</p>
 <p>•	Linguagens de Programação:Python, JavaScript, C++ (Arduino)</p> 
   <div align="left">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="C++ logo"  />
-  <img width="12" />
-   
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="C++ logo" />
+  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-    <img src="file:///C:/Users/LENOVO/Downloads/cplusplus.svg" height="30" alt="C++ logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   </div>
 <p>•	Desenvolvimento Front-end: HTML5, CSS3</p>
