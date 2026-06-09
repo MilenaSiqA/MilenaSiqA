@@ -9,11 +9,12 @@
 <h2 align="left">Sobre mim: </h2>
 
 ###
-<p>=== FORMAÇÃO ACADÊMICA ===</p>
+
+## FORMAÇÃO ACADÊMICA 
 <p>Bacharelado em Ciência da Computação | CESAR School</p>
 <p>Previsão de conclusão: 2029 (Cursando o 1º Período)</p>
 
-<p>=== COMPETÊNCIAS E HABILIDADES ===</p>
+## COMPETÊNCIAS E HABILIDADES 
 <p>•	Linguagens de Programação:Python, JavaScript, C++ (Arduino)</p> 
   <div align="left">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="C++ logo" />
@@ -34,7 +35,8 @@
 <p>•	Hardware e IoT: Arduino (Eletrônica básica/Prototipagem)</p>
 <p>•	Soft Skills: Trabalho em equipe, Liderança, Solução de problemas e Comunicação multidisciplinar.</p>
 <p> </p>
-<p>=== Áreas de interesse ===</p>
+
+## Áreas de interesse
 <p> • Cibersegurança</p>
 <p> • Engenharia de Dados</p>
 <p> • Product Manager</p>
@@ -59,6 +61,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MilenaSiqA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=MilenaSiqA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MilenaSiqA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
