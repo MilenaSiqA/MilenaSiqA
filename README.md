@@ -59,10 +59,9 @@
 ###
 
 
-# 📊 GitHub Stats:
-<div align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=MilenaSiqA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<div align="center">
+  
   ![](https://streak-stats.demolab.com/?user=MilenaSiqA&theme=dark&hide_border=false)<br/>
 
   [![](https://komarev.com/ghpvc/?username=MilenaSiqA&icon=0&color=0)](https://visitcount.itsvg.in)
