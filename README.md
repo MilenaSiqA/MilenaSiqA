@@ -12,7 +12,7 @@
 
 ## FORMAÇÃO ACADÊMICA 
 <p>Bacharelado em Ciência da Computação | CESAR School</p>
-<p>Previsão de conclusão: 2029 (Cursando o 1º Período)</p>
+<p>Previsão de conclusão: 2029 (Cursando o 2º Período)</p>
 
 ## COMPETÊNCIAS E HABILIDADES 
 <p>•	Linguagens de Programação:Python, JavaScript, C++ (Arduino)</p> 
